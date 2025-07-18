@@ -81,6 +81,7 @@
 * **[Lenny’s Newsletter](https://www.lennysnewsletter.com/)** - Product and growth tactics (includes dev tools).
 * **[Open Source Weekly](https://opensourceweekly.org/)** - Highlights from dev tools and community.
 * **[Changelog](https://changelog.com/)** - Podcast and blog for developers and dev tool makers.
+* **[AI For Developers](https://aifordevelopers.org)** - A curated list of top AI Dev Tools
 
 ## Contributing
 
