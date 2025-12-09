@@ -36,6 +36,7 @@
 * **[Product-Led Growth Book](https://productled.com/book/)** - Guide to building growth into your product.
 * **[Growth Loops Explained](https://growth.design/)** - Visual case studies on product-led growth.
 * **[Examples of PLG Companies](https://www.lennysnewsletter.com/p/plg-strategy-guide)** - Real-world case studies of successful developer tools.
+* [Increase repo visibility with GitHub SEO](https://nakora.ai/tools/github-repo-visibility)
 
 ## DX and Onboarding Tools
 
