@@ -48,7 +48,7 @@
 ## API and Dev Tool Marketing
 
 * **[RapidAPI](https://rapidapi.com/)** - API marketplace with developer-first branding.
-* **[APIs You Won’t Hate](https://apisyouwonthate.com/)** - Community and content focused on practical API design and documentation.
+* **[APIs You Won't Hate](https://apisyouwonthate.com/)** - Community and content focused on practical API design and documentation.
 * **[ReadMe](https://readme.com/)** - API documentation and developer experience platform.
 * **[Dev Marketing Metrics (by Clearbit)](https://clearbit.com/resources/dev-marketing-metrics)** - KPIs and success metrics for marketing to developers.
 
@@ -77,8 +77,9 @@
 
 ## Newsletters and Blogs
 
+* **[daily.dev Digest](https://daily.dev)** - Community-driven newsletter delivering the most engaged developer stories, curated by 1M+ developers. Also offers [native advertising](https://business.daily.dev) to reach developers through feed ads and newsletter sponsorships.
 * **[Developer Weekly](https://developerweekly.io/)** - Curated newsletter for devs and DevRel professionals.
-* **[Lenny’s Newsletter](https://www.lennysnewsletter.com/)** - Product and growth tactics (includes dev tools).
+* **[Lenny's Newsletter](https://www.lennysnewsletter.com/)** - Product and growth tactics (includes dev tools).
 * **[Open Source Weekly](https://opensourceweekly.org/)** - Highlights from dev tools and community.
 * **[Changelog](https://changelog.com/)** - Podcast and blog for developers and dev tool makers.
 
