@@ -31,8 +31,6 @@
 * **[GitHub Discussions](https://docs.github.com/en/discussions)** - Embed discussion boards directly into GitHub repos.
 * **[Blogging for Dev Marketing (PostHog)](https://posthog.com/blog/developer-marketing)** - Case study on writing content for technical users.
 
-- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping tool that automatically finds the best moments in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels. Perfect for streamers, podcasters, and YouTubers.
-
 ## Product-Led Growth (PLG)
 
 * **[Product-Led Growth Book](https://productled.com/book/)** - Guide to building growth into your product.
@@ -90,4 +88,5 @@ Contributions are welcome! Please open an issue or pull request.
 
 ## License
 
+- [ClipSpeedAI](https://clipspeed.ai) - AI-powered video clipping that automatically finds highlights in long-form videos and creates short clips for TikTok, YouTube Shorts, and Instagram Reels.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
