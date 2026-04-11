@@ -50,6 +50,7 @@
 * **[RapidAPI](https://rapidapi.com/)** - API marketplace with developer-first branding.
 * **[APIs You Won’t Hate](https://apisyouwonthate.com/)** - Community and content focused on practical API design and documentation.
 * **[ReadMe](https://readme.com/)** - API documentation and developer experience platform.
+* **[Toprank](https://github.com/nowork-studio/toprank)** - Open-source Claude Code skills and plugin workflows for SEO, content writing, and Google Ads tasks that support developer-tool marketing and documentation growth.
 * **[Dev Marketing Metrics (by Clearbit)](https://clearbit.com/resources/dev-marketing-metrics)** - KPIs and success metrics for marketing to developers.
 
 ## Documentation & Tutorial Platforms
