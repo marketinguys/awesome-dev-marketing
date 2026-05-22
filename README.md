@@ -74,6 +74,7 @@
 * **[Amplitude](https://amplitude.com/)** - In-depth product analytics.
 * **[Canny](https://canny.io/)** - Feedback collection and public roadmaps.
 * **[Sleekplan](https://sleekplan.com/)** - In-product feedback and changelogs.
+* **[Beton Inspector](https://github.com/getbeton/inspector)** - Open-source revenue intelligence; turns PostHog product-usage data + CRM into scored buying signals and routes the warmest accounts to sales. Self-hostable (OSS alternative to Pocus / Common Room).
 
 ## Newsletters and Blogs
 
