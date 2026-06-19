@@ -51,6 +51,7 @@
 * **[APIs You Won’t Hate](https://apisyouwonthate.com/)** - Community and content focused on practical API design and documentation.
 * **[ReadMe](https://readme.com/)** - API documentation and developer experience platform.
 * **[Dev Marketing Metrics (by Clearbit)](https://clearbit.com/resources/dev-marketing-metrics)** - KPIs and success metrics for marketing to developers.
+* **[NotFair](https://github.com/nowork-studio/NotFair)** - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ## Documentation & Tutorial Platforms
 
