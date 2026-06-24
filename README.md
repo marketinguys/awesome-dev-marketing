@@ -89,3 +89,7 @@ Contributions are welcome! Please open an issue or pull request.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+## Directories
+
+- [Toolquix](https://toolquix.com) - A curated directory of free online tools, software, and digital resources.
