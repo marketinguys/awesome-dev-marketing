@@ -30,6 +30,7 @@
 * **[Medium (Tech Publications)](https://medium.com/)** - Home to many developer-focused publications.
 * **[GitHub Discussions](https://docs.github.com/en/discussions)** - Embed discussion boards directly into GitHub repos.
 * **[Blogging for Dev Marketing (PostHog)](https://posthog.com/blog/developer-marketing)** - Case study on writing content for technical users.
+* **[Ship 2 Post](https://s2p.dev)** - Watches GitHub releases and auto-generates social posts for each release across multiple channels.
 
 ## Product-Led Growth (PLG)
 
