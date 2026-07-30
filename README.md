@@ -74,6 +74,7 @@
 * **[Amplitude](https://amplitude.com/)** - In-depth product analytics.
 * **[Canny](https://canny.io/)** - Feedback collection and public roadmaps.
 * **[Sleekplan](https://sleekplan.com/)** - In-product feedback and changelogs.
+* **[Klinky](https://klinky.io)** - A/B testing link shortener that splits one link between two destinations with real-time click analytics.
 
 ## Newsletters and Blogs
 
