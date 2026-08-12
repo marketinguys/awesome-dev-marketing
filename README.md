@@ -66,6 +66,7 @@
 * **[Discord](https://discord.com/)** - Widely used for dev community chats.
 * **[Stack Overflow Collective](https://stackoverflow.com/collectives/)** - Collaborate with devs via branded community spaces.
 * **[Forem](https://forem.com/)** - The open-source engine behind Dev.to.
+* **[Mentioned](https://mentioned.to/)** - Done-for-you Reddit growth service that finds and joins the Reddit threads your buyers already read.
 
 ## Analytics and Feedback
 
