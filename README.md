@@ -29,6 +29,7 @@
 * **[Hashnode](https://hashnode.com/)** - Blogging platform aimed at developer audiences.
 * **[Medium (Tech Publications)](https://medium.com/)** - Home to many developer-focused publications.
 * **[GitHub Discussions](https://docs.github.com/en/discussions)** - Embed discussion boards directly into GitHub repos.
+* **[BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills)** - Agent skills and API/MCP workflows for adapting, scheduling, and publishing approved developer-focused content across social platforms.
 * **[Blogging for Dev Marketing (PostHog)](https://posthog.com/blog/developer-marketing)** - Case study on writing content for technical users.
 
 ## Product-Led Growth (PLG)
